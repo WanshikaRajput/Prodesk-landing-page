@@ -18,9 +18,9 @@ A responsive landing page built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live URL
-
-(To be added after deployment)
+https://wanshikarajput.github.io/Prodesk-landing-page/
 
 ## Screenshot
 
-(To be added after deployment)
+<img width="1912" height="968" alt="image" src="https://github.com/user-attachments/assets/091ecf8d-722b-4efd-933f-2d75c0f5bd42" />
+
